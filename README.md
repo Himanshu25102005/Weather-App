@@ -4,9 +4,7 @@
 # 🌤️ React Weather Forecast App 
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
 [![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 [![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
 :
@@ -31,26 +29,33 @@ The app uses React Context API for global state management, making data sharing 
 
 # Quick Start Demo
 
-![Demo Preview](https://github.com/Himanshu25102005/Weather-App/blob/main/screenshot/Screenshot%20(1104).png?raw=true)
+![Demo Preview](https://github.com/Himanshu25102005/Weather-App/blob/main/screenshot/Screenshot%202025-07-03%20122044.png?raw=true)
 
+Captured at 12:21 PM IST, Thursday, July 03, 2025, this screenshot unveils the Spoidermon Weather App showcasing weather for Hisar. The interface glows with a deep blue gradient background 🌌, exuding a modern and serene vibe. The top navigation bar 💼 proudly displays "Forecast" on the left, paired with a sleek search bar 📍 on the right, inviting users to explore with a "City or ZIP Code" input.
 
-Captured at 12:10 PM IST, Thursday, July 03, 2025, this screenshot showcases the Spoidermon Weather App in action. The interface features a stunning purple gradient background 🌌, setting a modern and vibrant tone. The top navigation bar 💼 displays "Forecast" on the left, with a sleek search bar 📍 on the right, inviting users to input a "City or ZIP Code" for weather updates.
-
-The central section 🌐 highlights the current location (currently "NaN" 🕒, indicating a pending city input) with a timestamp of "Thursday, July 3, 2025, 05:48 AM" and a "Wind" label. Surrounding it are modular weather cards:
-
-
+The central hub 🌐 spotlights Hisar 🗺️ with a timestamp of "Thursday, July 3, 2025, 11:47 AM" and a "Wind" label. Surrounding it are modular weather cards brimming with details:
 
 
 
-🌡️ Temperature Card: Displays "0°" with a "Clear Sky" condition ☀️, "Feels like 0°C," and "Visibility 0 km" (labeled "NaN"), plus a "UV Index" of "5 (Moderate)" with an orange sun icon 🌞.
+
+
+🌡️ Temperature Card: Highlights "29°" with a "Clear Sky" condition ☀️, "Feels like 31°C," and "Visibility 16 km" 🌫️, complemented by a "UV Index" of "5 (Moderate)" with an orange sun icon 🌞.
 
 
 
-💧 Humidity Card: Shows "0%" with a green leaf icon 🍃.
+💨 Wind Card: Shows "13 km/h" with a yellow sun icon ☀️.
 
 
 
-🌬️ Wind Card: Indicates "0 km/h" with a yellow sun icon ☀️.
+💧 Humidity Card: Displays "0%" with a green leaf icon 🍃.
+
+
+
+🌡️ Heat Index Card: Notes "29° Celsius" with a flame icon 🔥.
+
+
+
+💧 Dew Point Card: Registers "12° Celsius" with a purple droplet icon 💧.
 
 
 
@@ -58,21 +63,13 @@ The central section 🌐 highlights the current location (currently "NaN" 🕒, 
 
 
 
-☁️ Cloud Cover Card: Reveals "15%" with a purple cloud icon 🌥️.
-
-
-
-🔥 Heat Index Card: Notes "0° Celsius" with a flame icon 🔥.
-
-
-
-💧 Dew Point Card: Registers "0° Celsius" with a purple droplet icon 💧.
-
-
-
 📊 Pressure Card: Lists "1013 hPa" with a blue gauge icon 📉.
 
-Each card boasts a semi-transparent design with white text 🎨, ensuring readability against the purple backdrop, making the app both functional and visually appealing. Perfect for tracking weather on the go! 🚀
+
+
+☁️ Cloud Cover Card: Reveals "15%" with a purple cloud icon 🌥️.
+
+Each card features a semi-transparent design with white text 🎨, ensuring clarity against the blue backdrop, making it a perfect blend of functionality and beauty. Ready to weather any storm! 🌪️
 
 # Table of Contents
 
